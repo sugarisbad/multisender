@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://rstormsf.github.io/multisender/sitemap.xml
+Sitemap: https://multisender.app/sitemap.xml
