@@ -55,7 +55,7 @@ https://kovan.etherscan.io/tx/0x755b84a8a61fd82c1410f6bbbb452c94ddf12fac5b1daaa1
 
 # How to setup dev environment
 
-1. git clone git@github.com:rstormsf/multisender.git
+1. git clone git@github.com:sugarisbad/multisender.git
 2. cd contracts
 3. I used  `node -v v9.7.1`
 4. npm install
